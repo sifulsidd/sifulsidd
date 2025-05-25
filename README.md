@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Siful Siddiki</h1>
-<h3 align="center">I'm a full-stack developer trying to</h3>
+<h3 align="center">I'm a full-stack developer based out of New York City</h3>
 
-- 🌱 I’m currently learning **Deep Learning (PyTorch, Scikit-learn),**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning (PyTorch, Scikit-learn),**
 
 - 👯 I’m looking to collaborate on **Python and React projects**
 
