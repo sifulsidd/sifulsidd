@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine learning and Deep Learning (PyTorch, Scikit-learn),**
 
-- 👯 I’m looking to collaborate on **Python and React projects**
+- 👯 I’m looking to collaborate on **Python, Node.js, and React.js projects**
 
 - 💬 Ask me about **React, JavaScript, Python**
 
